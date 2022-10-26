@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gregory Eritsyan
+- 👋 Hi
 
 
 <!---

@@ -1,4 +1,4 @@
-- 👋 Hi
+- 👋 Hi, Welcome to my GitHub. Gregory Eritsyan
 
 
 <!---
